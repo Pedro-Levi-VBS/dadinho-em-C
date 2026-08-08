@@ -5,7 +5,6 @@
 #include <stdbool.h>
 #include <windows.h>
 
-
 int main() {
     SetConsoleTitle("dadinho em C");
 
