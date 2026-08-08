@@ -13,5 +13,5 @@ Um jogo simples de dado para terminal Windows desenvolvido em linguagem C. O pro
 
 - **Linguagem:** C (C99)
 - **Compilador sugerido:** GCC (MinGW)
-- **Bibliotecas padrão:** `<stdio.h>`, `<stdlib.h>`, `<time.h>`, `<stdbool.h>`, `<time.h>`
+- **Bibliotecas padrão:** `<stdio.h>`, `<stdlib.h>`, `<time.h>`, `<stdbool.h>`, `<locale.h>`
 - **API do Windows:** `<windows.h>`
